@@ -1,0 +1,4 @@
+file.log.txt
+*.db
+*.log
+bin/
